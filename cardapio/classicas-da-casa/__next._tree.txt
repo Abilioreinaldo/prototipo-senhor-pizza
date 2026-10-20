@@ -1,0 +1,9 @@
+:HL["/prototipo-senhor-pizza/_next/static/chunks/208suowrh-p18.css","style"]
+:HL["/prototipo-senhor-pizza/_next/static/media/01e4147cff8141ee-s.p.3huc2loe0ie8a.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/prototipo-senhor-pizza/_next/static/media/8bd76523131fa0fc-s.p.1pvupmngxrt5z.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/prototipo-senhor-pizza/_next/static/media/a343f882a40d2cc9-s.p.1sj6eobyi31rd.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/prototipo-senhor-pizza/senhor-pizza/logo-raster.webp","image"]
+3:[["children",{"s":"__PAGE__","h":160}]]
+2:[["children",{"s":{"n":"slug","t":"d","k":"classicas-da-casa","s":[]},"h":96,"c":"$Q3"}]]
+1:[["children",{"s":{"n":"section","t":"d","k":"cardapio","s":["sobre","visite"]},"h":64,"c":"$Q2"}]]
+0:{"b":"kGoaAY0HfeEzp5qVp7Znr","t":{"t":{"s":"","h":16,"c":"$Q1"}}}

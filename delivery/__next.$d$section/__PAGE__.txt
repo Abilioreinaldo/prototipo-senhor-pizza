@@ -1,0 +1,40 @@
+2:"$Sreact.fragment"
+3:"/prototipo-senhor-pizza/_next/static/chunks/3dop11osv0vte.js"
+4:"/prototipo-senhor-pizza/_next/static/chunks/3v5q28hd9da28.js"
+5:"/prototipo-senhor-pizza/_next/static/chunks/0qfdom87h746a.js"
+6:I[39756,["$3","$4","$5"],"default"]
+7:I[37457,["$3","$4","$5"],"default"]
+c:"/prototipo-senhor-pizza/_next/static/chunks/0aucd7q90fij8.js"
+d:"/prototipo-senhor-pizza/_next/static/chunks/14s91k092vedh.js"
+e:I[39367,["$3","$4","$5","$c","$d"],"Reveal"]
+f:I[39367,["$3","$4","$5","$c","$d"],"PhotoReveal"]
+10:I[39367,["$3","$4","$5","$c","$d"],"Stagger"]
+11:I[39367,["$3","$4","$5","$c","$d"],"StaggerItem"]
+19:"ViewportBoundary"
+1a:I[97367,["$3","$4","$5"],"$19"]
+1b:"MetadataBoundary"
+1c:I[97367,["$3","$4","$5"],"$1b"]
+1d:"$Sreact.suspense"
+1e:I[27201,["$3","$4","$5"],"IconMark"]
+:HL["/prototipo-senhor-pizza/senhor-pizza/motoboy-entrega-1400.webp","image",{"imageSrcSet":"/prototipo-senhor-pizza/senhor-pizza/motoboy-entrega-480.webp 480w, /prototipo-senhor-pizza/senhor-pizza/motoboy-entrega-800.webp 800w, /prototipo-senhor-pizza/senhor-pizza/motoboy-entrega-1400.webp 1400w","imageSizes":"(min-width: 1024px) 40vw, 62vw","fetchPriority":"high"}]
+9:X
+9:C
+a:X
+b:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$2","c",{"children":[[["$","section",null,{"className":"on-dark bg-brand-deep text-cream","children":["$","div",null,{"className":"container-x grid items-center gap-12 py-16 lg:grid-cols-2 lg:py-24","children":[["$","$Le",null,{"children":[["$","p",null,{"className":"eyebrow mb-5","children":"Delivery da casa"}],["$","h1",null,{"className":"text-balance text-5xl leading-[1.02] sm:text-6xl lg:text-7xl","children":"Peça pelo WhatsApp"}],["$","p",null,{"className":"mt-7 max-w-md text-lg leading-relaxed text-cream/75","children":"A Senhor Pizza entrega em Boituva com equipe própria de motoboys. Escolha os sabores, mande a mensagem e receba em casa, ou retire no balcão."}],["$","a",null,{"href":"https://wa.me/5515992409597?text=Ol%C3%A1!%20Vi%20o%20site%20da%20Senhor%20Pizza%20e%20quero%20pedir%20para%20entrega.","target":"_blank","rel":"noopener","className":"inline-flex items-center justify-center gap-2.5 px-6 py-3.5 text-[12px] font-semibold uppercase tracking-[0.16em] transition-colors sm:px-7 sm:py-4 bg-gold text-brand-deep hover:bg-gold-light mt-10","children":[["$","svg",null,{"viewBox":"0 0 24 24","fill":"currentColor","aria-hidden":true,"className":"size-4","children":["$","path",null,{"d":"M12.04 2C6.58 2 2.13 6.45 2.13 11.91c0 1.75.46 3.45 1.32 4.95L2 22l5.25-1.38a9.9 9.9 0 0 0 4.79 1.22c5.46 0 9.91-4.45 9.91-9.91C21.95 6.45 17.5 2 12.04 2m0 18.15c-1.48 0-2.93-.4-4.2-1.15l-.3-.18-3.12.82.83-3.04-.2-.31a8.26 8.26 0 0 1-1.26-4.38c0-4.54 3.7-8.24 8.24-8.24 4.54 0 8.24 3.7 8.24 8.24 0 4.54-3.69 8.24-8.23 8.24m4.52-6.16c-.25-.12-1.47-.72-1.69-.81-.23-.08-.39-.12-.56.12-.17.25-.64.81-.78.97-.14.17-.29.19-.54.06-.25-.12-1.05-.39-1.99-1.23-.74-.66-1.23-1.47-1.38-1.72-.14-.25-.02-.38.11-.51.11-.11.25-.29.37-.43.12-.14.17-.25.25-.41.08-.17.04-.31-.02-.43-.06-.12-.56-1.34-.76-1.84-.2-.48-.41-.42-.56-.43h-.48c-.17 0-.43.06-.66.31-.22.25-.86.85-.86 2.07 0 1.22.89 2.4 1.01 2.56.12.17 1.75 2.67 4.23 3.74.59.26 1.05.41 1.41.52.59.19 1.13.16 1.56.1.48-.07 1.47-.6 1.67-1.18.21-.58.21-1.07.14-1.18-.06-.1-.22-.16-.47-.28"}]}],"Pedir pelo WhatsApp"]}]]}],["$","$Lf",null,{"className":"mx-auto w-full max-w-sm lg:max-w-md","children":["$","div",null,{"className":"relative overflow-hidden bg-muted","style":{"aspectRatio":"4/5"},"children":["$","img",null,{"src":"/prototipo-senhor-pizza/senhor-pizza/motoboy-entrega-1400.webp","srcSet":"/prototipo-senhor-pizza/senhor-pizza/motoboy-entrega-480.webp 480w, /prototipo-senhor-pizza/senhor-pizza/motoboy-entrega-800.webp 800w, /prototipo-senhor-pizza/senhor-pizza/motoboy-entrega-1400.webp 1400w","sizes":"(min-width: 1024px) 40vw, 62vw","alt":"Motoboy da Senhor Pizza saindo para entrega","width":1400,"height":2489,"loading":"eager","fetchPriority":"high","decoding":"async","className":"h-full w-full object-cover absolute inset-0"}]}]}]]}]}],["$","section",null,{"className":"py-16 sm:py-24 lg:py-28","children":["$","div",null,{"className":"container-x","children":[["$","$L10",null,{"className":"grid gap-10 md:grid-cols-3","children":[["$","$L11","Escolha os sabores",{"index":0,"className":"border-t border-border pt-6","children":[["$","span",null,{"className":"font-serif text-5xl text-gold","children":"01"}],["$","h2",null,{"className":"mt-3 text-3xl text-brand-deep","children":"Escolha os sabores"}],["$","p",null,{"className":"mt-2 leading-relaxed text-muted-foreground","children":"Veja o cardápio e monte o pedido: salgadas, doces, combos e bebidas."}]]}],["$","$L11","Mande no WhatsApp",{"index":1,"className":"border-t border-border pt-6","children":[["$","span",null,{"className":"font-serif text-5xl text-gold","children":"02"}],["$","h2",null,{"className":"mt-3 text-3xl text-brand-deep","children":"Mande no WhatsApp"}],"$L12"]}],"$L13"]}],"$L14"]}]}]],["$L15","$L16"],"$L17"]}],"p":"$@18","v":null,"s":"$a"}}]]
+1:[["children",{"s":{"n":"section","t":"d","k":"delivery","s":["sobre","visite"]},"h":64,"d":{"r":["$","$2","c",{"children":[null,["$","$L6",null,{"parallelRouterKey":"children","template":["$","$L7",null,{}]}]]}],"p":"$@8","v":"$9","s":"$a"},"c":"$Qb"}]]
+0:{"t":{"t":{"s":"","h":16,"c":"$Q1"},"h":{"r":["$","$2","h",{"children":[null,["$","$L1a",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#851C1E"}]]}],["$","$L1c",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$1d",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Delivery · Senhor Pizza"}],["$","meta","1",{"name":"description","content":"A 01 de Boituva: sabor, qualidade e entrega rápida, toda noite."}],["$","meta","2",{"name":"generator","content":"KnowHowTech — protótipo comercial não oficial (demonstração)"}],["$","meta","3",{"name":"robots","content":"noindex, nofollow, nocache"}],["$","meta","4",{"name":"x-prototype","content":"knowhowtech-preview; nao-oficial; conteudo-publico-do-instagram-do-lead"}],["$","link","5",{"rel":"icon","href":"/prototipo-senhor-pizza/icon.svg?icon.33vu8tb27ojgk.svg","sizes":"any","type":"image/svg+xml"}],["$","$L1e","6",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@1f","v":null,"s":"$a"}},"a":"$@20","u":"$@21","b":"kGoaAY0HfeEzp5qVp7Znr"}
+22:I[97367,["$3","$4","$5"],"OutletBoundary"]
+12:["$","p",null,{"className":"mt-2 leading-relaxed text-muted-foreground","children":"Envie o pedido e o endereço pelo WhatsApp (15) 99240-9597 ou pelo link de pedidos da casa."}]
+13:["$","$L11","Receba quente",{"index":2,"className":"border-t border-border pt-6","children":[["$","span",null,{"className":"font-serif text-5xl text-gold","children":"03"}],["$","h2",null,{"className":"mt-3 text-3xl text-brand-deep","children":"Receba quente"}],["$","p",null,{"className":"mt-2 leading-relaxed text-muted-foreground","children":"Os motoboys da Senhor Pizza saem assim que a pizza deixa o forno. Se preferir, retire no balcão."}]]}]
+14:["$","$Le",null,{"className":"mt-14 border-l-2 border-gold pl-5 text-sm text-muted-foreground","children":"Área de entrega, taxa e tempo de entrega são informados no atendimento. Funcionamento de quinta a terça, das 18h30 às 23h; quarta fechado."}]
+15:["$","script","script-0",{"src":"/prototipo-senhor-pizza/_next/static/chunks/0aucd7q90fij8.js","async":true}]
+16:["$","script","script-1",{"src":"/prototipo-senhor-pizza/_next/static/chunks/14s91k092vedh.js","async":true}]
+17:["$","$L22",null,{"children":["$","$1d",null,{"name":"Next.MetadataOutlet","children":"$@23"}]}]
+21:true
+a:300
+23:null
+a:C
+20:0
+8:"$undefined"
+1f:"$undefined"
+18:"$undefined"

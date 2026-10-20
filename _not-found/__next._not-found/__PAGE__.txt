@@ -1,0 +1,29 @@
+2:"$Sreact.fragment"
+3:"/prototipo-senhor-pizza/_next/static/chunks/3dop11osv0vte.js"
+4:"/prototipo-senhor-pizza/_next/static/chunks/3v5q28hd9da28.js"
+5:"/prototipo-senhor-pizza/_next/static/chunks/0qfdom87h746a.js"
+6:I[39756,["$3","$4","$5"],"default"]
+7:I[37457,["$3","$4","$5"],"default"]
+c:I[22016,["$3","$4","$5"],""]
+d:I[5014,["$3","$4","$5"],"default"]
+e:I[97367,["$3","$4","$5"],"OutletBoundary"]
+f:"$Sreact.suspense"
+12:"ViewportBoundary"
+13:I[97367,["$3","$4","$5"],"$12"]
+14:"MetadataBoundary"
+15:I[97367,["$3","$4","$5"],"$14"]
+16:I[27201,["$3","$4","$5"],"IconMark"]
+9:X
+9:C
+a:X
+b:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$2","c",{"children":[["$","section",null,{"className":"container-x py-32 text-center","children":[["$","p",null,{"className":"eyebrow mb-4","children":"404"}],["$","h1",null,{"className":"text-4xl text-brand-deep sm:text-5xl","children":"Essa página não existe"}],["$","$Lc",null,{"href":"/","className":"inline-flex items-center justify-center gap-2.5 px-6 py-3.5 text-[12px] font-semibold uppercase tracking-[0.16em] transition-colors sm:px-7 sm:py-4 border border-brand text-brand hover:bg-brand hover:text-primary-foreground mt-8","children":["Voltar ao início",["$","$Ld",null,{"icon":{"name":"arrow-right","size":24,"node":[["path",{"d":"M5 12h14","key":"1ays0h"}],["path",{"d":"m12 5 7 7-7 7","key":"xquz4c"}]]},"className":"size-4","strokeWidth":1.5}]]}]]}],null,["$","$Le",null,{"children":["$","$f",null,{"name":"Next.MetadataOutlet","children":"$@10"}]}]]}],"p":"$@11","v":null,"s":"$a"}}]]
+1:[["children",{"s":"/_not-found","h":64,"d":{"r":["$","$2","c",{"children":[null,["$","$L6",null,{"parallelRouterKey":"children","template":["$","$L7",null,{}]}]]}],"p":"$@8","v":"$9","s":"$a"},"c":"$Qb"}]]
+0:{"t":{"t":{"s":"","h":16,"c":"$Q1"},"h":{"r":["$","$2","h",{"children":[["$","meta",null,{"name":"robots","content":"noindex"}],["$","$L13",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#851C1E"}]]}],["$","$L15",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$f",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Senhor Pizza — Boituva/SP"}],["$","meta","1",{"name":"description","content":"A 01 de Boituva: sabor, qualidade e entrega rápida, toda noite."}],["$","meta","2",{"name":"generator","content":"KnowHowTech — protótipo comercial não oficial (demonstração)"}],["$","meta","3",{"name":"robots","content":"noindex, nofollow, nocache"}],["$","meta","4",{"name":"x-prototype","content":"knowhowtech-preview; nao-oficial; conteudo-publico-do-instagram-do-lead"}],["$","link","5",{"rel":"icon","href":"/prototipo-senhor-pizza/icon.svg?icon.33vu8tb27ojgk.svg","sizes":"any","type":"image/svg+xml"}],["$","$L16","6",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@17","v":null,"s":"$a"}},"a":"$@18","u":"$@19","b":"kGoaAY0HfeEzp5qVp7Znr"}
+10:null
+19:true
+a:300
+a:C
+18:0
+8:"$undefined"
+17:"$undefined"
+11:"$undefined"
